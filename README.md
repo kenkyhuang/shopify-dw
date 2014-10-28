@@ -11,7 +11,7 @@ Tables include:
 
 <b>Installation</b>
 
-Git clone the repository.
+Assuming you have <a href='https://help.github.com/articles/set-up-git/'>Git</a> installed, Git clone the repository.
 
 <pre><code>git clone git@github.com:kenkyhuang/shopify-dw.git</code></pre>
 
