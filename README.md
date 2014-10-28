@@ -21,6 +21,8 @@ pip install -r requirements.txt
 
 Assuming you have <a href='https://rubygems.org/pages/download'>RubyGems</a> installed, install the shopify_api Ruby gem.
 
+In <a href='https://github.com/kenkyhuang/shopify-dw/blob/master/puller/settings.rb'>puller/settings.rb</a>, set your Shopify API key, API password and store name (i.e. the "xyz" in "xyz.shopify.com". See <a href='http://docs.shopify.com/support/configuration/apps/where-do-i-find-my-api-key'>here</a> for details on generating a Shopify API key. 
+
 <pre><code>gem install shopify_api</code></pre>
 
 Load the mySQL schema.
