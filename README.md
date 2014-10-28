@@ -1,6 +1,8 @@
 <b>Overview</b>
 
-This is a basic script to pull data from Shopify's API and push it into a local mySQL data warehouse. Tables include:
+This is a basic script to pull data from Shopify's API and push it into a local mySQL data warehouse. The schema is very simple -- no surrogate keys, no slowly changing dimensions -- and uses Shopify object IDs as primary keys.
+
+Tables include:
 
 - Product
 - SKU
